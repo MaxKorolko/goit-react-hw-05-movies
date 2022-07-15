@@ -1,0 +1,24 @@
+.article {
+  margin-left: 50px;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.img {
+  margin-right: 30px;
+}
+
+.movieTitle {
+  margin-bottom: 50px;
+}
+
+.tittle {
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.text {
+  margin-bottom: 50px;
+}

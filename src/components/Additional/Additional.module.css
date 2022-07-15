@@ -1,0 +1,30 @@
+.wrap {
+  padding: 50px;
+}
+
+.tittle {
+  margin-bottom: 30px;
+}
+
+.list {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.item:not(:last-child) {
+  margin-right: 20px;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+  font-weight: 500;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.link:hover,
+.link:focus {
+  background-color: bisque;
+}
